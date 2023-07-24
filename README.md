@@ -1,7 +1,7 @@
-- 👋 Hi, I’m kai yang(杨恺)
+- 👋 Hi, I’m Kai Yang(杨恺)
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning multi-agent reinforcement learning
-- 💞️ I’m studying in THU SIGS
+- 🌱 I’m currently learning Reinforcement Learning
+- 💞️ I’m a master's student currently studying at THU SIGS
 - 📫 How to reach me yk22@mails.tsinghua.edu.cn
 
 <!---
