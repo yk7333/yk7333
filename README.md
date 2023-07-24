@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 杨恺(yangkai) 
+- 👋 Hi, I’m kai yang(杨恺)
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning multi-agent reinforcement learning
 - 💞️ I’m studying in THU SIGS
