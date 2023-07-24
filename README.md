@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Reinforcement Learning
 - 💞️ I’m a master's student currently studying at THU SIGS
-- 📫 How to reach me yk22@mails.tsinghua.edu.cn
+- 📫 You can contact me through yk22@mails.tsinghua.edu.cn
 
 <!---
 yk7333/yk7333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
